@@ -1,0 +1,201 @@
+ID_HISTORIA;ID_CITA;ID_PACIENTE;DIAGNOSTICO;F_REGISTRO
+1;1;112233445;Apiñamiento leve anterior;01/01/2024
+2;2;112233445;Apiñamiento severo con falta de espacio;02/01/2024
+3;3;112233445;Diastema interincisal;03/01/2024
+4;4;112233445;Clase II división 1;04/01/2024
+5;5;112233445;Clase II división 2;05/01/2024
+6;6;112233445;Clase III esquelética;06/01/2024
+7;7;132334657;Mordida cruzada anterior;1/15/2024
+8;8;132334657;Mordida cruzada posterior unilateral;2/15/2024
+9;9;132334657;Mordida abierta anterior;3/15/2024
+10;10;132334657;Mordida abierta posterior;4/15/2024
+11;11;132334657;Sobremordida aumentada;5/15/2024
+12;12;132334657;Sobremordida disminuida;6/15/2024
+13;13;141348678;Línea media desviada;1/29/2024
+14;14;141348678;Asimetría facial leve;2/29/2024
+15;15;141348678;Microdoncia;3/29/2024
+16;16;141348678;Macrodoncia;4/29/2024
+17;17;141348678;Erupción ectópica de canino;5/29/2024
+18;18;141348678;Transposición dentaria;6/29/2024
+19;19;151346778;Hipodoncia;02/12/2024
+20;20;151346778;Dientes supernumerarios;03/12/2024
+21;21;151346778;Retrognatismo mandibular;04/12/2024
+22;22;151346778;Prognatismo maxilar;05/12/2024
+23;23;151346778;Compresión maxilar;06/12/2024
+24;24;151346778;Dientes rotados;07/12/2024
+25;25;161349872;Dientes retenidos;2/26/2024
+26;26;161349872;Mordida borde a borde;3/26/2024
+27;27;161349872;Crecimiento mandibular acelerado;4/26/2024
+28;28;161349872;Bruxismo juvenil;5/26/2024
+29;29;161349872;Respiración oral crónica;6/26/2024
+30;30;161349872;Deglución atípica;7/26/2024
+31;31;172652389;Apiñamiento leve anterior;03/11/2024
+32;32;172652389;Mordida cruzada anterior;04/11/2024
+33;33;172652389;Línea media desviada;05/11/2024
+34;34;172652389;Hipodoncia;06/11/2024
+35;35;172652389;Dientes retenidos;07/11/2024
+36;36;172652389;Asimetría facial leve;08/11/2024
+37;37;113876489;Apiñamiento severo con falta de espacio;3/25/2024
+38;38;113876489;Mordida cruzada posterior unilateral;4/25/2024
+39;39;113876489;Microdoncia;5/25/2024
+40;40;113876489;Dientes supernumerarios;6/25/2024
+41;41;113876489;Mordida borde a borde;7/25/2024
+42;42;113876489;Crecimiento mandibular acelerado;8/25/2024
+43;43;123465789;Diastema interincisal;04/08/2024
+44;44;123465789;Mordida abierta anterior;05/08/2024
+45;45;123465789;Macrodoncia;06/08/2024
+46;46;123465789;Retrognatismo mandibular;07/08/2024
+47;47;123465789;Bruxismo juvenil;08/08/2024
+48;48;123465789;Prognatismo maxilar;09/08/2024
+49;49;134567834;Clase II división 1;4/22/2024
+50;50;134567834;Mordida abierta posterior;5/22/2024
+51;51;134567834;Erupción ectópica de canino;6/22/2024
+52;52;134567834;Compresión maxilar;7/22/2024
+53;53;134567834;Respiración oral crónica;8/22/2024
+54;54;134567834;Sobremordida disminuida;9/22/2024
+55;55;111347678;Clase II división 2;05/06/2024
+56;56;111347678;Sobremordida aumentada;06/06/2024
+57;57;111347678;Transposición dentaria;07/06/2024
+58;58;111347678;Dientes rotados;08/06/2024
+59;59;111347678;Deglución atípica;09/06/2024
+60;60;111347678;Clase III esquelética;10/06/2024
+61;61;112356478;Apiñamiento leve anterior;5/20/2024
+62;62;112356478;Mordida abierta anterior;6/20/2024
+63;63;112356478;Transposición dentaria;7/20/2024
+64;64;112356478;Dientes supernumerarios;8/20/2024
+65;65;112356478;Prognatismo maxilar;9/20/2024
+66;66;112356478;Deglución atípica;10/20/2024
+67;67;125674567;Apiñamiento severo con falta de espacio;06/03/2024
+68;68;125674567;Mordida cruzada posterior unilateral;07/03/2024
+69;69;125674567;Línea media desviada;08/03/2024
+70;70;125674567;Retrognatismo mandibular;09/03/2024
+71;71;125674567;Dientes rotados;10/03/2024
+72;72;125674567;Respiración oral crónica;11/03/2024
+73;73;127658976;Diastema interincisal;6/17/2024
+74;74;127658976;Mordida cruzada anterior;7/17/2024
+75;75;127658976;Sobremordida disminuida;8/17/2024
+76;76;127658976;Compresión maxilar;9/17/2024
+77;77;127658976;Crecimiento mandibular acelerado;10/17/2024
+78;78;127658976;Asimetría facial leve;11/17/2024
+79;79;115467876;Clase II división 1;07/01/2024
+80;80;115467876;Mordida abierta posterior;08/01/2024
+81;81;115467876;Microdoncia;09/01/2024
+82;82;115467876;Hipodoncia;10/01/2024
+83;83;115467876;Mordida borde a borde;11/01/2024
+84;84;115467876;Bruxismo juvenil;12/01/2024
+85;85;116546789;Clase II división 2;7/15/2024
+86;86;116546789;Sobremordida aumentada;8/15/2024
+87;87;116546789;Erupción ectópica de canino;9/15/2024
+88;88;116546789;Macrodoncia;10/15/2024
+89;89;116546789;Dientes retenidos;11/15/2024
+90;90;116546789;Clase III esquelética;12/15/2024
+91;91;121376567;Apiñamiento leve anterior;7/29/2024
+92;92;121376567;Apiñamiento severo con falta de espacio;8/29/2024
+93;93;121376567;Diastema interincisal;9/29/2024
+94;94;121376567;Clase II división 1;10/29/2024
+95;95;121376567;Clase II división 2;11/29/2024
+96;96;121376567;Clase III esquelética;12/29/2024
+97;97;127635467;Mordida cruzada anterior;08/12/2024
+98;98;127635467;Mordida cruzada posterior unilateral;09/12/2024
+99;99;127635467;Mordida abierta anterior;10/12/2024
+100;100;127635467;Mordida abierta posterior;11/12/2024
+101;101;127635467;Sobremordida aumentada;12/12/2024
+102;102;127635467;Sobremordida disminuida;01/12/2025
+103;103;172846483;Línea media desviada;8/26/2024
+104;104;172846483;Asimetría facial leve;9/26/2024
+105;105;172846483;Microdoncia;10/26/2024
+106;106;172846483;Macrodoncia;11/26/2024
+107;107;172846483;Erupción ectópica de canino;12/26/2024
+108;108;172846483;Transposición dentaria;1/26/2025
+109;109;137823743;Hipodoncia;09/09/2024
+110;110;137823743;Dientes supernumerarios;10/09/2024
+111;111;137823743;Retrognatismo mandibular;11/09/2024
+112;112;137823743;Prognatismo maxilar;12/09/2024
+113;113;137823743;Compresión maxilar;01/09/2025
+114;114;137823743;Dientes rotados;02/09/2025
+115;115;128438949;Dientes retenidos;9/23/2024
+116;116;128438949;Mordida borde a borde;10/23/2024
+117;117;128438949;Crecimiento mandibular acelerado;11/23/2024
+118;118;128438949;Bruxismo juvenil;12/23/2024
+119;119;128438949;Respiración oral crónica;1/23/2025
+120;120;128438949;Deglución atípica;2/23/2025
+121;121;198213457;Apiñamiento leve anterior;10/07/2024
+122;122;198213457;Mordida cruzada anterior;11/07/2024
+123;123;198213457;Línea media desviada;12/07/2024
+124;124;198213457;Hipodoncia;01/07/2025
+125;125;198213457;Dientes retenidos;02/07/2025
+126;126;198213457;Asimetría facial leve;03/07/2025
+127;127;111111111;Apiñamiento severo con falta de espacio;10/21/2024
+128;128;111111111;Mordida cruzada posterior unilateral;11/21/2024
+129;129;111111111;Microdoncia;12/21/2024
+130;130;111111111;Dientes supernumerarios;1/21/2025
+131;131;111111111;Mordida borde a borde;2/21/2025
+132;132;111111111;Crecimiento mandibular acelerado;3/21/2025
+133;133;122222223;Diastema interincisal;11/04/2024
+134;134;122222223;Mordida abierta anterior;12/04/2024
+135;135;122222223;Macrodoncia;01/04/2025
+136;136;122222223;Retrognatismo mandibular;02/04/2025
+137;137;122222223;Bruxismo juvenil;03/04/2025
+138;138;122222223;Prognatismo maxilar;04/04/2025
+139;139;111232222;Clase II división 1;11/18/2024
+140;140;111232222;Mordida abierta posterior;12/18/2024
+141;141;111232222;Erupción ectópica de canino;1/18/2025
+142;142;111232222;Compresión maxilar;2/18/2025
+143;143;111232222;Respiración oral crónica;3/18/2025
+144;144;111232222;Sobremordida disminuida;4/18/2025
+145;145;112222322;Clase II división 2;12/02/2024
+146;146;112222322;Sobremordida aumentada;01/02/2025
+147;147;112222322;Transposición dentaria;02/02/2025
+148;148;112222322;Dientes rotados;03/02/2025
+149;149;112222322;Deglución atípica;04/02/2025
+150;150;112222322;Clase III esquelética;05/02/2025
+151;151;111112223;Apiñamiento leve anterior;12/16/2024
+152;152;111112223;Mordida abierta anterior;1/16/2025
+153;153;111112223;Transposición dentaria;2/16/2025
+154;154;111112223;Dientes supernumerarios;3/16/2025
+155;155;111112223;Prognatismo maxilar;4/16/2025
+156;156;111112223;Deglución atípica;5/16/2025
+157;157;111111112;Apiñamiento severo con falta de espacio;12/30/2024
+158;158;111111112;Mordida cruzada posterior unilateral;1/30/2025
+159;159;111111112;Línea media desviada;2/28/2025
+160;160;111111112;Retrognatismo mandibular;3/30/2025
+161;161;111111112;Dientes rotados;4/30/2025
+162;162;111111112;Respiración oral crónica;5/30/2025
+163;163;111111113;Diastema interincisal;1/13/2025
+164;164;111111113;Mordida cruzada anterior;2/13/2025
+165;165;111111113;Sobremordida disminuida;3/13/2025
+166;166;111111113;Compresión maxilar;4/13/2025
+167;167;111111113;Crecimiento mandibular acelerado;5/13/2025
+168;168;111111113;Asimetría facial leve;6/13/2025
+169;169;111111114;Clase II división 1;1/27/2025
+170;170;111111114;Mordida abierta posterior;2/27/2025
+171;171;111111114;Microdoncia;3/27/2025
+172;172;111111114;Hipodoncia;4/27/2025
+173;173;111111114;Mordida borde a borde;5/27/2025
+174;174;111111114;Bruxismo juvenil;6/27/2025
+175;175;111111115;Clase II división 2;02/10/2025
+176;176;111111115;Sobremordida aumentada;03/10/2025
+177;177;111111115;Erupción ectópica de canino;04/10/2025
+178;178;111111115;Macrodoncia;05/10/2025
+179;179;111111115;Dientes retenidos;06/10/2025
+180;180;111111115;Clase III esquelética;07/10/2025
+181;181;111111116;Apiñamiento leve anterior;10/14/2024
+182;182;111111116;Clase III esquelética (prognatismo mandibular);9/20/2024
+183;183;111111116;Mordida cruzada posterior unilateral;7/18/2024
+184;184;111111117;Apiñamiento severo con falta de espacio;2/23/2024
+185;185;111111117;Mordida abierta anterior;9/26/2024
+186;186;111111117;Línea media desviada;3/31/2024
+187;187;111111118;Diastema interincisal;6/13/2024
+188;188;111111118;Mordida abierta posterior;4/13/2024
+189;189;111111118;Asimetría facial leve;11/06/2024
+190;190;111111119;Clase II división 1;03/09/2024
+191;191;111111119;Sobremordida aumentada;03/05/2024
+192;192;111111119;Microdoncia;12/30/2024
+193;193;111111310;Clase II división 2;03/01/2024
+194;194;111111310;Sobremordida disminuida;6/19/2024
+195;195;111111310;Macrodoncia;3/17/2024
+196;196;111111312;Mordida cruzada anterior;02/12/2024
+197;197;111111312;Erupción ectópica de canino;12/18/2024
+198;198;111111312;Transposición dentaria;08/01/2024
+199;199;111111313;Retrognatismo mandibular;04/04/2024
+200;200;111111313;Dolor;04/04/2024

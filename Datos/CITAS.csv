@@ -1,0 +1,201 @@
+ID_CITA,MOTIVO,OBSERVACIONES,F_CITA,HORA_CITA,ID_ODONTOLOGO,ID_PACIENTE,ID_ESTADO
+1,Otodoncia,Toma de radiografías y modelos,1/1/2024,12:00 PM,425163789,112233445,2
+2,Otodoncia,Instrucciones de higiene bucal con brackets,2/1/2024,08:30 AM,425163789,112233445,2
+3,Otodoncia,Inicio de alineamiento dental,3/1/2024,03:30 PM,425163789,112233445,2
+4,Otodoncia,Mejora en alineación dental,4/1/2024,01:00 PM,425163789,112233445,2
+5,Otodoncia,Observación de avances en mordida,5/1/2024,08:00 AM,425163789,112233445,2
+6,Otodoncia,Verificación de retención de espacios,6/1/2024,12:30 PM,425163789,112233445,2
+7,Otodoncia,Evaluación inicial y diagnóstico,1/15/2024,08:30 AM,132415123,132334657,2
+8,Otodoncia,Colocación parcial de brackets,2/15/2024,08:30 AM,132415123,132334657,2
+9,Otodoncia,Inicio de alineamiento dental,3/15/2024,02:00 PM,132415123,132334657,2
+10,Otodoncia,Inicio de cierre de espacios,4/15/2024,10:00 AM,132415123,132334657,2
+11,Otodoncia,Corrección de mordida en curso,5/15/2024,08:00 AM,132415123,132334657,2
+12,Otodoncia,Verificación de retención de espacios,6/15/2024,10:00 AM,132415123,132334657,2
+13,Otodoncia,Discusión de plan de tratamiento,1/29/2024,11:00 AM,103947182,141348678,2
+14,Otodoncia,Colocación parcial de brackets,2/29/2024,10:00 AM,103947182,141348678,2
+15,Otodoncia,Observación de molestias iniciales,3/29/2024,03:30 PM,103947182,141348678,2
+16,Otodoncia,Inicio de cierre de espacios,4/29/2024,03:30 PM,103947182,141348678,2
+17,Otodoncia,Uso de elásticos intermaxilares,5/29/2024,11:00 AM,103947182,141348678,2
+18,Otodoncia,Planificación de fase de retención próxima,6/29/2024,10:00 AM,103947182,141348678,2
+19,Otodoncia,Discusión de plan de tratamiento,2/12/2024,09:00 AM,425163789,151346778,2
+20,Otodoncia,Colocación parcial de brackets,3/12/2024,09:00 AM,425163789,151346778,2
+21,Otodoncia,Observación de molestias iniciales,4/12/2024,01:00 PM,425163789,151346778,2
+22,Otodoncia,Mejora en alineación dental,5/12/2024,11:00 AM,425163789,151346778,2
+23,Otodoncia,Corrección de mordida en curso,6/12/2024,11:00 AM,425163789,151346778,2
+24,Otodoncia,Últimos ajustes,7/12/2024,01:30 PM,425163789,151346778,2
+25,Otodoncia,Toma de radiografías y modelos,2/26/2024,10:30 AM,132415123,161349872,2
+26,Otodoncia,Instrucciones de higiene bucal con brackets,3/26/2024,01:00 PM,132415123,161349872,2
+27,Otodoncia,Ajuste de arcos,4/26/2024,09:30 AM,132415123,161349872,2
+28,Otodoncia,Inicio de cierre de espacios,5/26/2024,09:00 AM,132415123,161349872,2
+29,Otodoncia,Observación de avances en mordida,6/26/2024,12:30 PM,132415123,161349872,2
+30,Otodoncia,Verificación de retención de espacios,7/26/2024,08:30 AM,132415123,161349872,2
+31,Otodoncia,Evaluación inicial y diagnóstico,3/11/2024,11:30 AM,103947182,172652389,2
+32,Otodoncia,Colocación de separadores,4/11/2024,03:00 PM,103947182,172652389,2
+33,Otodoncia,Inicio de alineamiento dental,5/11/2024,10:00 AM,103947182,172652389,2
+34,Otodoncia,Ajuste de fuerza en el arco,6/11/2024,02:00 PM,103947182,172652389,2
+35,Otodoncia,Corrección de mordida en curso,7/11/2024,11:00 AM,103947182,172652389,2
+36,Otodoncia,Últimos ajustes,8/11/2024,10:00 AM,103947182,172652389,2
+37,Otodoncia,Discusión de plan de tratamiento,3/25/2024,03:00 PM,425163789,113876489,2
+38,Otodoncia,Colocación de separadores,4/25/2024,01:00 PM,425163789,113876489,2
+39,Otodoncia,Ajuste de arcos,5/25/2024,01:00 PM,425163789,113876489,2
+40,Otodoncia,Inicio de cierre de espacios,6/25/2024,11:00 AM,425163789,113876489,2
+41,Otodoncia,Observación de avances en mordida,7/25/2024,08:30 AM,425163789,113876489,2
+42,Otodoncia,Planificación de fase de retención próxima,8/25/2024,12:00 PM,425163789,113876489,2
+43,Otodoncia,Discusión de plan de tratamiento,4/8/2024,01:30 PM,132415123,123465789,2
+44,Otodoncia,Colocación parcial de brackets,5/8/2024,03:00 PM,132415123,123465789,2
+45,Otodoncia,Inicio de alineamiento dental,6/8/2024,02:30 PM,132415123,123465789,2
+46,Otodoncia,Inicio de cierre de espacios,7/8/2024,08:00 AM,132415123,123465789,2
+47,Otodoncia,Corrección de mordida en curso,8/8/2024,12:00 PM,132415123,123465789,2
+48,Otodoncia,Últimos ajustes,9/8/2024,03:00 PM,132415123,123465789,2
+49,Otodoncia,Discusión de plan de tratamiento,4/22/2024,11:00 AM,103947182,134567834,2
+50,Otodoncia,Instrucciones de higiene bucal con brackets,5/22/2024,01:00 PM,103947182,134567834,2
+51,Otodoncia,Inicio de alineamiento dental,6/22/2024,12:00 PM,103947182,134567834,2
+52,Otodoncia,Mejora en alineación dental,7/22/2024,12:00 PM,103947182,134567834,2
+53,Otodoncia,Uso de elásticos intermaxilares,8/22/2024,11:30 AM,103947182,134567834,2
+54,Otodoncia,Últimos ajustes,9/22/2024,10:30 AM,103947182,134567834,2
+55,Otodoncia,Discusión de plan de tratamiento,5/6/2024,11:00 AM,425163789,111347678,2
+56,Otodoncia,Colocación de separadores,6/6/2024,10:00 AM,425163789,111347678,2
+57,Otodoncia,Observación de molestias iniciales,7/6/2024,08:00 AM,425163789,111347678,2
+58,Otodoncia,Mejora en alineación dental,8/6/2024,09:30 AM,425163789,111347678,2
+59,Otodoncia,Observación de avances en mordida,9/6/2024,03:30 PM,425163789,111347678,2
+60,Otodoncia,Planificación de fase de retención próxima,10/6/2024,08:00 AM,425163789,111347678,2
+61,Otodoncia,Evaluación inicial y diagnóstico,5/20/2024,11:00 AM,132415123,112356478,2
+62,Otodoncia,Instrucciones de higiene bucal con brackets,6/20/2024,10:30 AM,132415123,112356478,2
+63,Otodoncia,Inicio de alineamiento dental,7/20/2024,11:30 AM,132415123,112356478,2
+64,Otodoncia,Inicio de cierre de espacios,8/20/2024,09:00 AM,132415123,112356478,2
+65,Otodoncia,Uso de elásticos intermaxilares,9/20/2024,11:30 AM,132415123,112356478,2
+66,Otodoncia,Verificación de retención de espacios,10/20/2024,10:00 AM,132415123,112356478,2
+67,Otodoncia,Toma de radiografías y modelos,6/3/2024,01:00 PM,103947182,125674567,2
+68,Otodoncia,Colocación parcial de brackets,7/3/2024,12:00 PM,103947182,125674567,2
+69,Otodoncia,Ajuste de arcos,8/3/2024,09:00 AM,103947182,125674567,2
+70,Otodoncia,Ajuste de fuerza en el arco,9/3/2024,03:30 PM,103947182,125674567,2
+71,Otodoncia,Observación de avances en mordida,10/3/2024,01:00 PM,103947182,125674567,2
+72,Otodoncia,Planificación de fase de retención próxima,11/3/2024,12:00 PM,103947182,125674567,2
+73,Otodoncia,Evaluación inicial y diagnóstico,6/17/2024,11:00 AM,425163789,127658976,2
+74,Otodoncia,Instrucciones de higiene bucal con brackets,7/17/2024,08:30 AM,425163789,127658976,2
+75,Otodoncia,Inicio de alineamiento dental,8/17/2024,02:00 PM,425163789,127658976,2
+76,Otodoncia,Mejora en alineación dental,9/17/2024,11:30 AM,425163789,127658976,2
+77,Otodoncia,Corrección de mordida en curso,10/17/2024,02:00 PM,425163789,127658976,2
+78,Otodoncia,Verificación de retención de espacios,11/17/2024,12:30 PM,425163789,127658976,2
+79,Otodoncia,Discusión de plan de tratamiento,7/1/2024,02:30 PM,132415123,115467876,2
+80,Otodoncia,Instrucciones de higiene bucal con brackets,8/1/2024,08:00 AM,132415123,115467876,2
+81,Otodoncia,Observación de molestias iniciales,9/1/2024,09:30 AM,132415123,115467876,2
+82,Otodoncia,Inicio de cierre de espacios,10/1/2024,08:30 AM,132415123,115467876,2
+83,Otodoncia,Uso de elásticos intermaxilares,11/1/2024,08:30 AM,132415123,115467876,2
+84,Otodoncia,Últimos ajustes,12/1/2024,10:30 AM,132415123,115467876,2
+85,Otodoncia,Toma de radiografías y modelos,7/15/2024,09:00 AM,103947182,116546789,2
+86,Otodoncia,Instrucciones de higiene bucal con brackets,8/15/2024,08:00 AM,103947182,116546789,2
+87,Otodoncia,Ajuste de arcos,9/15/2024,12:00 PM,103947182,116546789,2
+88,Otodoncia,Mejora en alineación dental,10/15/2024,01:00 PM,103947182,116546789,2
+89,Otodoncia,Corrección de mordida en curso,11/15/2024,12:00 PM,103947182,116546789,2
+90,Otodoncia,Planificación de fase de retención próxima,12/15/2024,02:30 PM,103947182,116546789,2
+91,Otodoncia,Toma de radiografías y modelos,7/29/2024,08:30 AM,425163789,121376567,2
+92,Otodoncia,Instrucciones de higiene bucal con brackets,8/29/2024,09:30 AM,425163789,121376567,2
+93,Otodoncia,Ajuste de arcos,9/29/2024,01:00 PM,425163789,121376567,2
+94,Otodoncia,Ajuste de fuerza en el arco,10/29/2024,11:30 AM,425163789,121376567,2
+95,Otodoncia,Observación de avances en mordida,11/29/2024,10:30 AM,425163789,121376567,2
+96,Otodoncia,Verificación de retención de espacios,12/29/2024,09:00 AM,425163789,121376567,2
+97,Otodoncia,Toma de radiografías y modelos,8/12/2024,01:30 PM,132415123,127635467,2
+98,Otodoncia,Colocación parcial de brackets,9/12/2024,03:00 PM,132415123,127635467,2
+99,Otodoncia,Inicio de alineamiento dental,10/12/2024,12:00 PM,132415123,127635467,2
+100,Otodoncia,Mejora en alineación dental,11/12/2024,08:30 AM,132415123,127635467,2
+101,Otodoncia,Uso de elásticos intermaxilares,12/12/2024,02:00 PM,132415123,127635467,2
+102,Otodoncia,Planificación de fase de retención próxima,1/12/2025,11:00 AM,132415123,127635467,2
+103,Otodoncia,Discusión de plan de tratamiento,8/26/2024,11:30 AM,103947182,172846483,2
+104,Otodoncia,Colocación de separadores,9/26/2024,11:30 AM,103947182,172846483,2
+105,Otodoncia,Inicio de alineamiento dental,10/26/2024,09:30 AM,103947182,172846483,2
+106,Otodoncia,Inicio de cierre de espacios,11/26/2024,10:30 AM,103947182,172846483,2
+107,Otodoncia,Corrección de mordida en curso,12/26/2024,08:30 AM,103947182,172846483,2
+108,Otodoncia,Planificación de fase de retención próxima,1/26/2025,12:30 PM,103947182,172846483,2
+109,Otodoncia,Discusión de plan de tratamiento,9/9/2024,09:00 AM,425163789,137823743,2
+110,Otodoncia,Colocación parcial de brackets,10/9/2024,03:00 PM,425163789,137823743,2
+111,Otodoncia,Ajuste de arcos,11/9/2024,08:30 AM,425163789,137823743,2
+112,Otodoncia,Inicio de cierre de espacios,12/9/2024,11:30 AM,425163789,137823743,2
+113,Otodoncia,Observación de avances en mordida,1/9/2025,10:00 AM,425163789,137823743,2
+114,Otodoncia,Últimos ajustes,2/9/2025,02:30 PM,425163789,137823743,2
+115,Otodoncia,Discusión de plan de tratamiento,9/23/2024,02:00 PM,132415123,128438949,2
+116,Otodoncia,Instrucciones de higiene bucal con brackets,10/23/2024,10:00 AM,132415123,128438949,2
+117,Otodoncia,Inicio de alineamiento dental,11/23/2024,01:00 PM,132415123,128438949,2
+118,Otodoncia,Mejora en alineación dental,12/23/2024,10:00 AM,132415123,128438949,2
+119,Otodoncia,Corrección de mordida en curso,1/23/2025,08:30 AM,132415123,128438949,2
+120,Otodoncia,Verificación de retención de espacios,2/23/2025,08:00 AM,132415123,128438949,2
+121,Otodoncia,Toma de radiografías y modelos,10/7/2024,10:30 AM,103947182,198213457,2
+122,Otodoncia,Instrucciones de higiene bucal con brackets,11/7/2024,02:00 PM,103947182,198213457,2
+123,Otodoncia,Observación de molestias iniciales,12/7/2024,10:00 AM,103947182,198213457,2
+124,Otodoncia,Mejora en alineación dental,1/7/2025,09:30 AM,103947182,198213457,2
+125,Otodoncia,Observación de avances en mordida,2/7/2025,11:30 AM,103947182,198213457,2
+126,Otodoncia,Planificación de fase de retención próxima,3/7/2025,10:00 AM,103947182,198213457,2
+127,Otodoncia,Discusión de plan de tratamiento,10/21/2024,10:30 AM,425163789,111111111,2
+128,Otodoncia,Instrucciones de higiene bucal con brackets,11/21/2024,08:00 AM,425163789,111111111,2
+129,Otodoncia,Observación de molestias iniciales,12/21/2024,11:30 AM,425163789,111111111,2
+130,Otodoncia,Ajuste de fuerza en el arco,1/21/2025,09:30 AM,425163789,111111111,2
+131,Otodoncia,Corrección de mordida en curso,2/21/2025,02:30 PM,425163789,111111111,2
+132,Otodoncia,Planificación de fase de retención próxima,3/21/2025,12:30 PM,425163789,111111111,2
+133,Otodoncia,Discusión de plan de tratamiento,11/4/2024,02:00 PM,132415123,122222223,2
+134,Otodoncia,Instrucciones de higiene bucal con brackets,12/4/2024,03:00 PM,132415123,122222223,2
+135,Otodoncia,Inicio de alineamiento dental,1/4/2025,10:30 AM,132415123,122222223,2
+136,Otodoncia,Ajuste de fuerza en el arco,2/4/2025,12:00 PM,132415123,122222223,2
+137,Otodoncia,Uso de elásticos intermaxilares,3/4/2025,08:30 AM,132415123,122222223,2
+138,Otodoncia,Planificación de fase de retención próxima,4/4/2025,01:00 PM,132415123,122222223,2
+139,Otodoncia,Toma de radiografías y modelos,11/18/2024,11:00 AM,103947182,111232222,2
+140,Otodoncia,Instrucciones de higiene bucal con brackets,12/18/2024,03:30 PM,103947182,111232222,2
+141,Otodoncia,Inicio de alineamiento dental,1/18/2025,08:30 AM,103947182,111232222,2
+142,Otodoncia,Ajuste de fuerza en el arco,2/18/2025,03:00 PM,103947182,111232222,2
+143,Otodoncia,Uso de elásticos intermaxilares,3/18/2025,12:30 PM,103947182,111232222,2
+144,Otodoncia,Últimos ajustes,4/18/2025,10:30 AM,103947182,111232222,2
+145,Otodoncia,Discusión de plan de tratamiento,12/2/2024,09:00 AM,425163789,112222322,2
+146,Otodoncia,Colocación de separadores,1/2/2025,11:30 AM,425163789,112222322,2
+147,Otodoncia,Ajuste de arcos,2/2/2025,09:30 AM,425163789,112222322,2
+148,Otodoncia,Ajuste de fuerza en el arco,3/2/2025,03:30 PM,425163789,112222322,2
+149,Otodoncia,Observación de avances en mordida,4/2/2025,09:00 AM,425163789,112222322,2
+150,Otodoncia,Verificación de retención de espacios,5/2/2025,08:00 AM,425163789,112222322,2
+151,Otodoncia,Evaluación inicial y diagnóstico,12/16/2024,10:30 AM,132415123,111112223,2
+152,Otodoncia,Instrucciones de higiene bucal con brackets,1/16/2025,12:00 PM,132415123,111112223,2
+153,Otodoncia,Inicio de alineamiento dental,2/16/2025,03:00 PM,132415123,111112223,2
+154,Otodoncia,Inicio de cierre de espacios,3/16/2025,12:00 PM,132415123,111112223,2
+155,Otodoncia,Corrección de mordida en curso,4/16/2025,11:00 AM,132415123,111112223,2
+156,Otodoncia,Verificación de retención de espacios,5/16/2025,02:30 PM,132415123,111112223,2
+157,Otodoncia,Discusión de plan de tratamiento,12/30/2024,02:30 PM,103947182,111111112,2
+158,Otodoncia,Instrucciones de higiene bucal con brackets,1/30/2025,01:00 PM,103947182,111111112,2
+159,Otodoncia,Inicio de alineamiento dental,2/28/2025,01:30 PM,103947182,111111112,2
+160,Otodoncia,Ajuste de fuerza en el arco,3/30/2025,03:30 PM,103947182,111111112,2
+161,Otodoncia,Observación de avances en mordida,4/30/2025,10:30 AM,103947182,111111112,2
+162,Otodoncia,Verificación de retención de espacios,5/30/2025,11:30 AM,103947182,111111112,2
+163,Otodoncia,Evaluación inicial y diagnóstico,1/13/2025,11:00 AM,425163789,111111113,2
+164,Otodoncia,Colocación parcial de brackets,2/13/2025,01:30 PM,425163789,111111113,2
+165,Otodoncia,Inicio de alineamiento dental,3/13/2025,09:00 AM,425163789,111111113,2
+166,Otodoncia,Mejora en alineación dental,4/13/2025,11:00 AM,425163789,111111113,2
+167,Otodoncia,Observación de avances en mordida,5/13/2025,12:00 PM,425163789,111111113,2
+168,Otodoncia,Verificación de retención de espacios,6/13/2025,02:30 PM,425163789,111111113,2
+169,Otodoncia,Evaluación inicial y diagnóstico,1/27/2025,12:00 PM,132415123,111111114,2
+170,Otodoncia,Colocación de separadores,2/27/2025,11:00 AM,132415123,111111114,2
+171,Otodoncia,Observación de molestias iniciales,3/27/2025,12:00 PM,132415123,111111114,2
+172,Otodoncia,Ajuste de fuerza en el arco,4/27/2025,09:30 AM,132415123,111111114,2
+173,Otodoncia,Uso de elásticos intermaxilares,5/27/2025,12:30 PM,132415123,111111114,2
+174,Otodoncia,Planificación de fase de retención próxima,6/27/2025,11:30 AM,132415123,111111114,2
+175,Otodoncia,Toma de radiografías y modelos,2/10/2025,01:00 PM,103947182,111111115,2
+176,Otodoncia,Colocación parcial de brackets,3/10/2025,03:00 PM,103947182,111111115,2
+177,Otodoncia,Ajuste de arcos,4/10/2025,10:30 AM,103947182,111111115,2
+178,Otodoncia,Mejora en alineación dental,5/10/2025,10:00 AM,103947182,111111115,2
+179,Otodoncia,Uso de elásticos intermaxilares,6/10/2025,10:00 AM,103947182,111111115,2
+180,Otodoncia,Planificación de fase de retención próxima,7/10/2025,09:00 AM,103947182,111111115,3
+181,Endodoncia,Desinfección de canales completada,10/14/2024,08:30 AM,132415123,111111116,2
+182,Periodoncia,Limpieza profunda realizada,9/20/2024,03:00 PM,192817356,111111116,1
+183,Rehabilitación,Planificación de prótesis parcial fija,7/18/2024,12:30 PM,102936409,111111116,2
+184,Endodoncia,Obturación de conductos realizada,2/23/2024,10:30 AM,102938475,111111117,2
+185,Periodoncia,Reducción de inflamación gingival observada,9/26/2024,09:00 AM,102947569,111111117,2
+186,Rehabilitación,Ajuste oclusal realizado,3/31/2024,11:30 AM,111092112,111111117,1
+187,Endodoncia,Desinfección de canales completada,6/13/2024,09:30 AM,192817356,111111118,1
+188,Periodoncia,Reducción de inflamación gingival observada,4/13/2024,03:30 PM,102936153,111111118,2
+189,Rehabilitación,Ajuste oclusal realizado,11/6/2024,09:00 AM,103947182,111111118,2
+190,Endodoncia,Evaluación de conductos radiculares,3/9/2024,08:00 AM,103947182,111111119,1
+191,Periodoncia,Reducción de inflamación gingival observada,3/5/2024,10:30 AM,132415123,111111119,1
+192,Rehabilitación,Ajuste oclusal realizado,12/30/2024,12:00 PM,192817356,111111119,1
+193,Endodoncia,Obturación de conductos realizada,3/1/2024,03:00 PM,102936409,111111310,1
+194,Periodoncia,Limpieza profunda realizada,6/19/2024,12:00 PM,102938475,111111310,2
+195,Rehabilitación,Planificación de prótesis parcial fija,3/17/2024,11:00 AM,102947569,111111310,1
+196,Endodoncia,Desinfección de canales completada,2/12/2024,02:30 PM,111092112,111111312,2
+197,Periodoncia,Limpieza profunda realizada,12/18/2024,02:30 PM,192817356,111111312,1
+198,Rehabilitación,Planificación de prótesis parcial fija,8/1/2024,01:00 PM,102936153,111111312,2
+199,Endodoncia,Obturación de conductos realizada,4/4/2024,01:30 PM,103947182,111111313,1
+200,Periodoncia,Limpieza profunda realizada,4/4/2024,03:30 PM,103947182,111111313,2

@@ -1,0 +1,11 @@
+ID_TRATAMIENTO;NOMBRE_TR;DESCRIPCION_TR;COSTO_TR;DURACION_ESTIMADA
+1;Limpieza dental;Eliminación de placa, sarro y manchas superficiales mediante profilaxis.;80000;3
+2;Resina dental;Restauración estética de una caries con resina del color del diente.;120000;6
+3;Endodoncia;Tratamiento de conductos para eliminar la pulpa infectada del diente.;350000;15
+4;Extracción dental;Procedimiento para remover un diente dañado o sin posibilidad de restauración.;100000;30
+5;Ortodoncia Inicial;Valoración e instalación de brackets metálicos.;250000;540
+6;Blanqueamiento dental;Procedimiento estético para aclarar el color de los dientes.;300000;30
+7;Diseño de sonrisa;Evaluación y combinación de tratamientos para mejorar la estética dental.;600000;60
+8;Corona en porcelana;Rehabilitación de un diente con una corona estética de porcelana.;450000;30
+9;Implante dental;Reemplazo de un diente perdido mediante un tornillo de titanio y una corona.;1800000;182
+10;Sellantes;Aplicación de selladores en molares para prevenir caries en niños.;70000;3
